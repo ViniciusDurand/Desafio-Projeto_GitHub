@@ -47,7 +47,7 @@
 - Servem para criar blocos de codigo que não são renderizados
   - Exemplo:
 
-    ``` <div align=center><h1> Minha Jornada - GitHub🌟 </h1></div> ´´´
+    ``` console.log("Olá Mundo"); ```
 
 ------------------
 
