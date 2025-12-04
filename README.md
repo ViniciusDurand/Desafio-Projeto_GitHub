@@ -1,6 +1,6 @@
 <div align="center">
   <h1>📚 Minha Jornada - Git e GitHub</h1>
-  <p>Desafio de Projeto do Bootcamp DIO</p>
+  <p>Desafio de Projeto do Git and Github DIO</p>
   
   <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Feito%20com-Markdown-blue?style=for-the-badge&logo=markdown">
