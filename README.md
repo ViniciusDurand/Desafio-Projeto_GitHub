@@ -7,7 +7,7 @@
 </div>
 
 ## 📝 Sobre o Projeto
-Este repositório foi criado para documentar minha evolução no **Bootcamp da DIO**. Aqui apliquei na prática os comandos essenciais de versionamento e a sintaxe Markdown.
+Este repositório foi criado para documentar minha evolução no curso **Git and Github - DIO**. Aqui apliquei na prática os comandos essenciais de versionamento e a sintaxe Markdown.
 
 ---
 
