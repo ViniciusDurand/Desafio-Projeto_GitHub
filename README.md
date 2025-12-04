@@ -1,58 +1,61 @@
-<div align=center><h1> Minha Jornada - GitHub🌟 </h1></div>
+<div align="center">
+  <h1>📚 Minha Jornada - Git e GitHub</h1>
+  <p>Desafio de Projeto do Bootcamp DIO</p>
+  
+  <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Feito%20com-Markdown-blue?style=for-the-badge&logo=markdown">
+</div>
 
-## Markdown <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="28" style="vertical-align:middle; filter: invert(1"/>
+## 📝 Sobre o Projeto
+Este repositório foi criado para documentar minha evolução no **Bootcamp da DIO**. Aqui apliquei na prática os comandos essenciais de versionamento e a sintaxe Markdown.
 
-  - Markdawn é uma linguagem de texto simples
-  - Pode ser usada em qualquer lugar
+---
 
-### *Comandos MarkDawn*
+## 🚀 O que eu aprendi
+Durante esse módulo, explorei diversos recursos:
 
-- ## Hashtag
-  - # Java
-  - ## Java
-  - ### Java
-  - #### Java
-  - ##### Java
-  - ###### Java
---------------------
-- ## *Italico*, **Negrito** e ***Ambos***
-  - Itálico
-    - _Markdawn_ ou *Markdawn*
-  - Negrito
-    - **Markdawn** ou __Markdawn__
-  - Ambos
-    - ***Markdawn*** ou ___Markdawn___
+- [x] Criação e clonagem de repositórios;
+- [x] Comandos `git init`, `add`, `commit` e `push`;
+- [x] Formatação de textos (Negrito, Itálico);
+- [x] Inserção de Imagens e Links;
+- [x] Criação de Tabelas.
 
-------------------
-> TABELA DE PREÇOS
+---
 
-|Fruta  | Preço |
-|-------|-------|
-| Maça  | R$4.00|
-|  Uva  | R$1.25|
-| Maça  | R$2.50|
+## 🎨 Demonstração de Markdown
+Abaixo, alguns exemplos do que consigo fazer com a linguagem:
 
----------------
-## City
+### 1. Formatação de Texto
+- **Negrito**: Para destaque.
+- *Itálico*: Para ênfase.
+- ***Ambos***: Para avisos importantes.
 
-![City](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA3bXA4MGxrenV3c2J3cHRodm9pZ2k2dHcxc200ZzR1ZDY0YW9hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif)
+### 2. Tabelas Organizadas
+| Fruta | Preço | Disponibilidade |
+|-------|-------|-----------------|
+| Maçã  | R$4.00| ✅ Sim          |
+| Uva   | R$1.25| ✅ Sim          |
+| Pera  | R$2.50| ❌ Não          |
 
-## City-Link
+### 3. Inserção de Mídia e Links
+![City Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA3bXA4MGxrenV3c2J3cHRodm9pZ2k2dHcxc200ZzR1ZDY0YW9hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif)
 
-[Pixel Art Link!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA3bXA4MGxrenV3c2J3cHRodm9pZ2k2dHcxc200ZzR1ZDY0YW9hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif)
+> "A programação é a arte de organizar a complexidade."
 
---------------------
+---
 
-### BackTicks " ``` ou ´´´ "
-- Servem para criar blocos de codigo que não são renderizados
-  - Exemplo:
+## 💻 Tecnologias Utilizadas
 
-    ``` console.log("Olá Mundo"); ```
+<div style="display: inline_block">
+  <img align="center" alt="Vinicius-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Vinicius-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Vinicius-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
+</div>
 
-------------------
-
-## Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" style="vertical-align:middle" />
-
+---
+<div align="center">
+  <sub>Desenvolvido com 💙 por <a href="https://github.com/ViniciusDurand">Vinicius Durand</a></sub>
+</div>
 
 
 
